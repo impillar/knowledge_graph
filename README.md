@@ -2,8 +2,8 @@
 
 ## Related Work (as per topic)
 
-### Knowledge Graph Construction
-
+### Knowledge Graph Construction (entity extraction)
++ StatSnowball: a statistical approach to extracting entity relationships, WWW 2009 (tool: StatSnowball)
 + Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion, KDD 2014 (tool: Knowledge Vault)
 + Building event-centric knowledge graphs from news, (Web Semantics: Science, Services and Agents on the World Wide Web) 2016
 + HDSKG: Harvesting domain specific knowledge graph from content of webpages. SANER 2017, (tool: HDSKG)
@@ -20,6 +20,8 @@
 + Max-Margin DeepWalk: Discriminative Learning of Network Representation, IJCAI 2016
 + Inductive Representation Learning on Large Graphs, NIPS 2017 (tool: GraphSAGE)
 + metapath2vec: Scalable Representation Learning for Heterogeneous Networks, KDD 2017 (tool: metapath2vec)
++ HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning, CIKM 2017 (tool: Hin2Vec)
+
 
 ### Knowledge Clustering
 + Content Aggregation on Knowledge Bases using Graph Clustering
@@ -54,7 +56,8 @@
 + TorusE: Knowledge Graph Embedding on a Lie Group, arXiv 2017
 
 ### Graph Reasoning (Question Answering)
-
++ Question Answering with Subgraph Embeddings, arXiv 2014
++ Question Answering over Freebase with Multi-Column Convolutional Neural Networks, ACL IJCNLP 2015
 + Open Domain Question Answering via Semantic Enrichment, WWW 2015
 + Reading and Reasoning with Knowledge Graphs, PhD Dissertation 2015 (http://www.cs.cmu.edu/~mg1/thesis.pdf)
 + DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning, arXiv 2017 (tool: DeppPath)
@@ -69,6 +72,7 @@
 + DataStax [https://en.wikipedia.org/wiki/Graph_database]
 + Knowledge graph embeddings [https://github.com/mana-ysh/knowledge-graph-embeddings]
 + Unigraph [https://unigraph.io]
++ OpenIE: Open Information Extraction [https://nlp.stanford.edu/software/openie.html]
 
 ## Tutorials
 + https://googleblog.blogspot.sg/2012/05/introducing-knowledge-graph-things-not.html
