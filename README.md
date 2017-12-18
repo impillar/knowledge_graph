@@ -71,7 +71,7 @@
 + Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings, ACL 2018
 + Structural Deep Embedding for Hyper-Networks, AAAI 2018
 + DepthLGP: Learning Embeddings of Out-of-Sample Nodes in Dynamic Networks, AAAI 2018 (tool: DepthLGP)
-
++ The Neural Hawkes Process: A Neurally Self-Modulating Multivariate Point Process, NIPS 2017
 
 
 ## Graph Database & Tools (https://en.wikipedia.org/wiki/Graph_database)
