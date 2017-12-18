@@ -54,6 +54,7 @@
 + ICE: Item Concept Embedding via Textual Information, SIGIR 2017 (tool: ICE)
 + Fast Linear Model for Knowledge Graph Embeddings, arXiv 2017
 + TorusE: Knowledge Graph Embedding on a Lie Group, arXiv 2017
++ A Survey on Network Embedding, arXiv 2017
 
 ### Graph Reasoning (Question Answering)
 + Question Answering with Subgraph Embeddings, arXiv 2014
@@ -64,6 +65,12 @@
 + Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs, arXiv 2017
 + Variational Reasoning for Question Answering with Knowledge Graph, arXiv 2017
 + Reasoning Web: Logical Foundation of Knowledge Graph Construction and Query Answering, Computer Science (book) 2017
+
+### Dynamic Knowledge Graph
++ Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs, ICML 2018 (tool: Know-Evolve)
++ Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings, ACL 2018
++ Structural Deep Embedding for Hyper-Networks, AAAI 2018
++ DepthLGP: Learning Embeddings of Out-of-Sample Nodes in Dynamic Networks, AAAI 2018 (tool: DepthLGP)
 
 
 
