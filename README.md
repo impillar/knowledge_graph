@@ -18,9 +18,12 @@
 + Deep Neural Networks for Learning Graph Representations, AAAI 2016 (tool: DNGR)
 + Representation Learning of Knowledge Graphs with Hierarchical Types, IJCAI 2016
 + Max-Margin DeepWalk: Discriminative Learning of Network Representation, IJCAI 2016
++ node2vec: Scalable Feature Learning for Networks, KDD 2016
++ TorusE: Knowledge Graph Embedding on a Lie Group, arXiv 2017
 + Inductive Representation Learning on Large Graphs, NIPS 2017 (tool: GraphSAGE)
 + metapath2vec: Scalable Representation Learning for Heterogeneous Networks, KDD 2017 (tool: metapath2vec)
 + HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning, CIKM 2017 (tool: Hin2Vec)
++ entity2rec: Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation, RecSys 2017 (tool: entity2rec)
 
 
 ### Knowledge Clustering
